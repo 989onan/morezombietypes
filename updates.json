@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/invalid",
+  "promos": {
+    "1.0.0-latest": "1.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.0.0-recommended": "1.0.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}

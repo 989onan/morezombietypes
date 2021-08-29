@@ -1,0 +1,28 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+Settup.bat
+Build.bat
+
+# other
+eclipse
+run
+forge-1.17.1-37.0.44-mdk.zip
+
+# Files from Forge MDK
+forge*changelog.txt
